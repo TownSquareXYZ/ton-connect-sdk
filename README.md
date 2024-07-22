@@ -5,6 +5,7 @@ Welcome to the implementation of the TonConnect protocol! Before diving in, here
 
 - Easily connect users to your Dapp and start blockchain interactions:
   - [TON Connect UI React](https://www.npmjs.com/package/@tonconnect/ui-react): Seamlessly integrate wallet connection components into your React app.
+  - [TON Connect UI Vue](https://www.npmjs.com/package/@tonconnect/ui-vue): Seamlessly integrate wallet connection components into your Vue app.
   - [TON Connect UI](https://www.npmjs.com/package/@tonconnect/ui): Quickly add wallet connection components to your Dapp.
 
 
@@ -20,6 +21,7 @@ The repository contains the following packages:
 - [**@tonconnect/protocol**](https://www.npmjs.com/package/@tonconnect/protocol)
 - [**@tonconnect/ui**](https://www.npmjs.com/package/@tonconnect/ui)
 - [**@tonconnect/ui-react**](https://www.npmjs.com/package/@tonconnect/ui-react)
+- [**@tonconnect/ui-vue**](https://www.npmjs.com/package/@tonconnect/ui-vue)
 
 ---
 
@@ -57,6 +59,15 @@ TonConnect UI is a UI kit for TonConnect SDK. Use it to connect your app to TON 
 - **API Documentation**: [link](https://ton-connect.github.io/sdk/modules/_tonconnect_ui_react.html)
 
 TonConnect UI React is a React UI kit for TonConnect SDK. Use it to connect your app to TON wallets via the TonConnect protocol in React apps.
+
+---
+
+## 📕 TON Connect UI Vue
+- **GitHub**: [link](https://github.com/ton-connect/sdk/tree/main/packages/ui-vue)
+- **npm**: [link](https://www.npmjs.com/package/@tonconnect/ui-vue)
+- **API Documentation**: [link](https://ton-connect.github.io/sdk/modules/_tonconnect_ui_vue.html)
+
+TonConnect UI Vue is a Vue UI kit for TonConnect SDK. Use it to connect your app to TON wallets via the TonConnect protocol in Vue apps.
 
 ---
 
